@@ -1,2 +1,2 @@
 # par_impar
-programa para par_inpar
+PROGRAMA PARA VERIFICAR SI UN NUMERO ES PAR O IMPAR
